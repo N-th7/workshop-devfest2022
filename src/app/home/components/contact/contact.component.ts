@@ -9,7 +9,7 @@ export class ContactComponent{
 
   constructor() {}
 
-  // ngOnInit(): void {
+  ngOnInit(): void {
 
-  // }
+  }
 }
